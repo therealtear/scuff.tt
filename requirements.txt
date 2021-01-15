@@ -1,0 +1,4 @@
+requests
+discord
+colorama
+selenium
