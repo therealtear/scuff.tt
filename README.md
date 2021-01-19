@@ -48,7 +48,7 @@ Step 5) Follow the prompts in your terminal and have fun!
 
 See the [open issues](https://github.com/therealtear/scuff.tt/issues) for a list of proposed features (and known issues).
 
-## Proof Of Concept (Running generator for 24 hours straight)
+## Proof Of Concept
 
 (add pics when I have time)
 ![Here](image0.png)
